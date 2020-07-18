@@ -1,0 +1,5 @@
+# Configure the AWS provider
+provider "aws" {
+	profile = "Apurv"
+	region  = "ap-south-1"
+}
